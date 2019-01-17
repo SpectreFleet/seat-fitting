@@ -23,8 +23,8 @@
         }
     },
     "require": {
-        "eveseat/services": "^3.0",
-        "eveseat/eveapi": "^3.0",
-        "eveseat/web": "^3.0"
+        "spectrefleet/services": "^3.0",
+        "spectrefleet/eveapi": "^3.0",
+        "spectrefleet/web": "^3.0"
     }
 }
